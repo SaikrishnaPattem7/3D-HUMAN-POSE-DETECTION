@@ -50,4 +50,5 @@ Checkpoints are saved to `checkpoints/<model_type>_best.pth` and include the nor
 - **Human3.6M**: preprocessed `.npz` files with 2D and 3D joint positions. Place in `data/human36m/`.
 - **pilot_study.xlsx**: pre-extracted 2D COCO keypoints for 78,877 rows across participants. Place in `raw_data/`.
 
+
 All modules use the **COCO 17-joint** format throughout.
