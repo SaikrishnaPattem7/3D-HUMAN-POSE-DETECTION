@@ -1,6 +1,6 @@
 # 3D Human Pose Estimation
 
-Lifts 2D human joint coordinates (detected from images/video) into a full 3D skeleton using deep learning — no motion-capture suits or multi-camera setups required.
+Lifts 2D human joint coordinates(detected from images/video) into a full 3D skeleton using deep learning — no motion-capture suits or multi-camera setups required.
 
 ## Setup
 
